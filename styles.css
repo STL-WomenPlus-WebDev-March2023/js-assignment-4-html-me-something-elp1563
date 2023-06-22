@@ -21,10 +21,10 @@ p.funParagraph {
     width: 600px;
 }
 
-/* ul.lists {
-    color: rgb(140, 118, 89);
-    margin: 3px 0px 0px 10px
-} */
+ul.lists {
+    color: rgb(172, 141, 101)
+}
+
 
 #fiddleImage {
     width: 15%;
