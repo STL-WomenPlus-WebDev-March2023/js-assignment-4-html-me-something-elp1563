@@ -12,7 +12,7 @@
 
 #headings {
     color: rgb(2, 70, 2);
-    padding: 5px blue;
+    padding: 5px;
 
 }
 
@@ -21,10 +21,10 @@ p.funParagraph {
     width: 600px;
 }
 
-ul.lists {
+/* ul.lists {
     color: rgb(140, 118, 89);
     margin: 3px 0px 0px 10px
-}
+} */
 
 #fiddleImage {
     width: 15%;
