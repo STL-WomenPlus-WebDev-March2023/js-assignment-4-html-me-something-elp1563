@@ -1,19 +1,17 @@
 /* Write your CSS here! */
 #mainHeading {
     color:red;
-    margin: 0px 0px 0px 5px
+    margin: 0px 0px 0px 5px;
 
 }
 #testP {
     color:green;
-    width: 600px
-    
+    width: 600px;
 }
 
 #headings {
     color: rgb(2, 70, 2);
     padding: 5px;
-
 }
 
 p.funParagraph {
@@ -22,7 +20,7 @@ p.funParagraph {
 }
 
 ul.lists {
-    color: rgb(172, 141, 101)
+    color: rgb(172, 141, 101);
 }
 
 
@@ -30,24 +28,24 @@ ul.lists {
     width: 15%;
     height: 15%;
     border: 5px solid black;
-    margin: 0px 0px 0px 40px
+    margin: 0px 0px 0px 40px;
 }
 
 #zZImage {
     width: 20%;
     height: 20%;
     border: 5px solid black;
-    margin: 0px 0px 0px 40px
+    margin: 0px 0px 0px 40px;
 }
 
 #monsteraImage {
     width: 25%;
     height: 25%;
     border: 5px solid black;  
-    margin: 0px 0px 0px 40px
+    margin: 0px 0px 0px 40px;
 }
 
 #footer {
     color: rgb(64, 17, 17);
-    margin: 30px 0px 0px 5px
+    margin: 30px 0px 0px 5px;
 }
